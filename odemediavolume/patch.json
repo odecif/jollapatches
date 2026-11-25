@@ -1,0 +1,13 @@
+{
+	"author": "odecif",
+	"name": "ode-finer-media-volume",
+	"display_name": "Finer Media Volume Scale",
+	"version": "1.0.0",
+	"category": "media",
+	"description": "This patch will change the volume scale/steps which controls media on a Jolla Phone (2026) into more and finer steps.",
+	"discussion": "https://forum.sailfishos.org/t/how-to-change-volume-step-count/7682",
+	"sources": "https://github.com/odecif/jollapatches",
+	"donations": "",
+	"compatible": [ "5.2.0.22" ],
+	"last_updated": "2026-11-25T11:55:19.000"
+}
